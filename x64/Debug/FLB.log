@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\iwiildestroyanything\source\repos\FLB\FLB\Main.cpp(28,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\iwiildestroyanything\source\repos\FLB\FLB\Main.cpp(156,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\iwiildestroyanything\source\repos\FLB\FLB\Main.cpp(195,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\iwiildestroyanything\source\repos\FLB\FLB\Main.cpp(201,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  FLB.vcxproj -> C:\Users\iwiildestroyanything\source\repos\FLB\x64\Debug\FLB.exe
